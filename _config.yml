@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 # User settings
 username: Samuel Chinedu
 user_description: Hey, welcome to my page. My name is Samuel, and I'm a software developer. I'm a highly dedicated, motivated and disciplined professional with bias for action and a dynamic ability to fit in any work environment. I am a C++ developer with a solid grasp of generic programming, OOP, data structures and algorithms, and extensive hands-on experience using Qt frameworks.
-user_title: Programmer
+user_title: Software Developer
 email: mrwhistler316@gmail.com
 twitter_username: eltroy316
 github_username:  delivite
