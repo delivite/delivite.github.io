@@ -1,17 +1,17 @@
 # Site settings
-title: My Portfolio
+title: Samuel Chinedu | My Portfolio
 description: About my software developer journey
 baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Samuel Chinedu
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
+user_description: Hey, welcome to my page. My name is Samuel, and I'm a software developer. I'm a highly dedicated, motivated and disciplined professional with bias for action and a dynamic ability to fit in any work environment. I am a C++ developer with a solid grasp of generic programming, OOP, data structures and algorithms, and extensive hands-on experience using Qt frameworks.
+user_title: Programmer
 email: mrwhistler316@gmail.com
 twitter_username: eltroy316
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+github_username:  delivite
+gplus_username:  mrwhistler316
 
 # Google-analytics
 google-analytics:
