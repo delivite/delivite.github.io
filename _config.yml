@@ -6,7 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 # User settings
 username: Samuel Chinedu
-user_description: Hey, welcome to my page. My name is Samuel, and I'm a software developer. I'm a highly dedicated, motivated and disciplined professional with bias for action and a dynamic ability to fit in any work environment. I am a C++ developer with a solid grasp of generic programming, OOP, data structures and algorithms, and extensive hands-on experience using Qt frameworks.
+user_description: Hey, welcome to my page. My name is Samuel; I'm a software developer. I love programming in C++ and Python, I have worked with other awesome tools like Qt, Unity 3D and Linux OS. On this page I show some projects I have developed for learning and for fun. I build applications that I need or tools that help me learn one valuable skill or another. I'd love to hear your thoughts on them.
 user_title: Software Developer
 email: mrwhistler316@gmail.com
 twitter_username: eltroy316
